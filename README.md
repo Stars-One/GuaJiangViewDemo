@@ -6,7 +6,7 @@ A View which can accomplish funtion of scratching pad
 
 [中文文档](https://www.cnblogs.com/kexing/p/9517867.html)
 ## Picture
-![](https://images2018.cnblogs.com/blog/1210268/201808/1210268-20180822150127338-521279153.gif)
+![](https://images2018.cnblogs.com/blog/1210268/201808/1210268-20180822154915687-2057438815.gif)
 
 ## Useage
 1. **Add it in your root build.gradle at the end of repositories:**
