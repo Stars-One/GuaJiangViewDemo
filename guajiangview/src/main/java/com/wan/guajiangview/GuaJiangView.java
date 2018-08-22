@@ -313,4 +313,13 @@ public class GuaJiangView extends View {
     public void setClearFlag(int clearFlag){
         this.clearFlag = clearFlag;
     }
+    public interface onGuaCompleteListener{
+        void complete();
+    }
+    private onGuaCompleteListener mlistener;
+
+    public void setGuaCompleteListener(onGuaCompleteListener mlistener) {
+        this.mlistener = mlistener;
+    }
+
 }
