@@ -20,7 +20,7 @@ A View which can accomplish funtion of scratching pad
 2. **Add the dependency**
 
 		dependencies {
-		    compile 'com.github.Stars-One:GuaJiangViewDemo:v1.1'
+		    compile 'com.github.Stars-One:GuaJiangViewDemo:v1.2'
 		}
 3. **use it in your xml**
 
