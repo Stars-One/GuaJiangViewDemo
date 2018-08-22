@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GuaJiangView">
+        <attr name="text" format="string"/>
+        <attr name="textColor" format="color"/>
+        <attr name="textSize" format="integer"/>
+        <attr name="messageBackground" format="color|reference"/>
+        <attr name="cover" format="color|reference"/>
+        <attr name="PaintSize" format="integer"/>
+        <attr name="isDrawText" format="boolean"/>
+        <attr name="clearFlag" format="integer"/>
+    </declare-styleable>
+
+
+</resources>
